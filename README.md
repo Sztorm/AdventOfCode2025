@@ -3,7 +3,7 @@
 Solutions for the 2025 edition of **[Advent of Code](https://adventofcode.com/2025)** written in **[Scala](https://www.scala-lang.org/)** language.
 
 ## Solutions
-- [Day 01](src/Day01.scala) ★★
+- [Day 01](src/Day01.scala) ⭐⭐
 - [Day 02](src/Day02.scala) ★★
 - [Day 03](src/Day03.scala) ★★
 - [Day 04](src/Day04.scala) ★★
@@ -16,7 +16,7 @@ Solutions for the 2025 edition of **[Advent of Code](https://adventofcode.com/20
 - [Day 11](src/Day11.scala) ★★
 - [Day 12](src/Day12.scala) ★★
 
-Collected stars: **0**
+Collected stars: **2**
 
 ## License
-[MIT](https://github.com/Sztorm/AdventOfCode2025/LICENSE.txt)
+[MIT](https://github.com/Sztorm/AdventOfCode2025/blob/master/LICENSE.txt)
