@@ -15,7 +15,7 @@ import scala.io.Source
       finally source.close()
     )
 
-  println(s"test part 1: ${Day01.part1(testInput)}")
-  println(s"test part 2: ${Day01.part2(testInput)}")
-  println(s"part 1:      ${Day01.part1(input)}")
-  println(s"part 2:      ${Day01.part2(input)}")
+  println(s"test part 1: ${Day02.part1(testInput)}")
+  println(s"part 1:      ${Day02.part1(input)}")
+  println(s"test part 2: ${Day02.part2(testInput)}")
+  println(s"part 2:      ${Day02.part2(input)}")
